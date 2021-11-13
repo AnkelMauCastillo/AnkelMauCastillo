@@ -1,0 +1,16 @@
+name : Readme stats 
+
+on :
+   workflow_dispatch :
+   schedule :
+     # Se ejecuta a las 12 am UTC 
+    - cron : " 0 0 * * * "
+
+ trabajos :
+   update-readme :
+     name : Actualiza el README de este repositorio se 
+    ejecuta en : ubuntu-últimos 
+    pasos : 
+      - uses : daniellop1 / stats @ master 
+        con :
+           WAKATIME_API_KEY : $ {{secrets.WAKATIME_API_KEY}}
