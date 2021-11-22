@@ -2,9 +2,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Java         3 hrs 23 mins   ████████████▒░░░░░░░░░░░░   49.61 % 
-Python       3 hrs 10 mins   ███████████▓░░░░░░░░░░░░░   46.54 % 
-Properties   15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Python   3 hrs 10 mins   ███████████████▒░░░░░░░░░   61.80 % 
+Java     1 hr 57 mins    █████████▓░░░░░░░░░░░░░░░   38.17 % 
 ```
 <!--END_SECTION:waka-->
 
