@@ -2,8 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python     4 hrs 58 mins   ████████████████████████▓   99.31 % 
-Other      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Python     3 hrs 4 mins    █████████████████████████   99.93 % 
 ```
 <!--END_SECTION:waka-->
 
