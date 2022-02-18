@@ -2,11 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 16 mins
-
-XML    9 mins          ███████████████▒░░░░░░░░░   61.43 % 
-Java   3 mins          ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
-JSON   2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
