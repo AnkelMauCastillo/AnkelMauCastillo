@@ -3,7 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java   0 secs          █████████████████████████   100.00 %
+Arduino    4 mins          ██████████████████████░░░   87.99 %
+Java       0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 ```
 
 <!--END_SECTION:waka-->
