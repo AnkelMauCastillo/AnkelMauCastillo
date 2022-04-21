@@ -3,7 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Java      15 mins         ██████████████████░░░░░░░   71.54 %
+Arduino   5 mins          ███████░░░░░░░░░░░░░░░░░░   27.91 %
+Other     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
