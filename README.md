@@ -3,9 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java       44 mins         ██████████████▒░░░░░░░░░░   57.80 %
-Assembly   25 mins         ████████▒░░░░░░░░░░░░░░░░   32.79 %
-Other      7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
