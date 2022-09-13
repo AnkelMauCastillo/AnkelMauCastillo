@@ -3,7 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+SQL              4 hrs 15 mins   ████████████▒░░░░░░░░░░░░   49.31 %
+Java             3 hrs 16 mins   █████████▓░░░░░░░░░░░░░░░   38.02 %
+XML              32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
+HTML             23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+Properties       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+GitIgnore file   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->
