@@ -3,9 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-HTML         4 hrs 33 mins   ██████████████▓░░░░░░░░░░   58.25 %
-Java         3 hrs 3 mins    █████████▓░░░░░░░░░░░░░░░   39.21 %
-Properties   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+HTML         2 hrs 34 mins   █████████████▓░░░░░░░░░░░   54.18 %
+Java         2 hrs 7 mins    ███████████░░░░░░░░░░░░░░   44.63 %
+Properties   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
 ```
 
 <!--END_SECTION:waka-->
