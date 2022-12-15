@@ -3,11 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java                  18 mins         ███████████▒░░░░░░░░░░░░░   44.68 %
-HTTP Request          14 mins         █████████░░░░░░░░░░░░░░░░   35.67 %
-JavaScript            7 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.10 %
-HTML                  1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-Cookie storage file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
