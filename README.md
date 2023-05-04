@@ -3,7 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Java          7 hrs           ██████████████████████▓░░   90.85 %
+HTML          19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+PHP           16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+JavaScript    5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+IDEA_MODULE   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
