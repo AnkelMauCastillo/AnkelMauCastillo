@@ -3,11 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java             15 hrs 53 mins  ████████████████████░░░░░   80.01 %
-HTML             2 hrs           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
-Properties       1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
-GitIgnore file   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-CLASS            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Java                  26 hrs 5 mins   ███████████████████░░░░░░   75.59 %
+HTML                  4 hrs 46 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 %
+Properties            3 hrs 24 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
+GitIgnore file        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+HTTP Request          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
