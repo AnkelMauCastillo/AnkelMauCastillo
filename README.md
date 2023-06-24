@@ -3,11 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript       3 hrs 7 mins    ██████████████████░░░░░░░   72.43 %
-Java             47 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.37 %
-HTML             23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Java             47 mins         ███████████████▓░░░░░░░░░   62.96 %
+JavaScript       27 mins         █████████▒░░░░░░░░░░░░░░░   36.74 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
