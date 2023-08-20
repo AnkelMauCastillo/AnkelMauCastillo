@@ -3,9 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java       43 mins         █████████████████████████   99.92 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-XML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
