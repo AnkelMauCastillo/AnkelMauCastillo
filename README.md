@@ -3,9 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-XML     25 mins         ████████████████████▓░░░░   83.22 %
-Other   4 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.85 %
-HTML    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
