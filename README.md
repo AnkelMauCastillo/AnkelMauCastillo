@@ -3,7 +3,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+XML     48 mins         ████████████████████████▓   99.18 %
+DTD     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Ezhil   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
