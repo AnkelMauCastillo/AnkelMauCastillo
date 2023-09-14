@@ -3,9 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java             15 mins         █████████████████████░░░░   84.46 %
-GitIgnore file   2 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.49 %
-Ezhil            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
