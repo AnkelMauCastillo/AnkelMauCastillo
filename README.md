@@ -3,10 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         6 mins          ███████████████░░░░░░░░░░   60.37 %
-JavaScript   3 mins          ███████▒░░░░░░░░░░░░░░░░░   28.72 %
-CSS          0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
-XML          0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
