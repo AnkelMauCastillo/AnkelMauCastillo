@@ -3,7 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java                  18 mins         ████████████████░░░░░░░░░   63.84 %
+HTTP Request          5 mins          █████░░░░░░░░░░░░░░░░░░░░   20.03 %
+ActionScript 3        3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.10 %
+Properties            0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+HTTP                  0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
