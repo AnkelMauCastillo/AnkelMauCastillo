@@ -3,8 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         1 hr 25 mins    █████████████████████████   99.60 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+HTML         2 hrs 24 mins   ████████████████████▒░░░░   81.93 %
+CSS          31 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.83 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
