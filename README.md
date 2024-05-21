@@ -3,11 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-CSS              2 hrs 37 mins   █████████████████▓░░░░░░░   70.04 %
-Java             36 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.25 %
-XML              18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
-HTML             10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
-GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
