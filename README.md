@@ -3,9 +3,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart              4 hrs 56 mins   ██████████████████████░░░   87.88 %
-Java              35 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 %
-Java Properties   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Java              35 mins         ██████████████████████░░░   87.84 %
+Java Properties   4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.16 %
 ```
 
 <!--END_SECTION:waka-->
