@@ -3,7 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Dart         29 mins         ██████████████████░░░░░░░   71.54 %
+TypeScript   11 mins         ███████░░░░░░░░░░░░░░░░░░   27.95 %
+TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
