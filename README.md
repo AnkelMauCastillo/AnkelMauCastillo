@@ -3,7 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python       42 mins         ████████████░░░░░░░░░░░░░   47.71 %
+Java         29 mins         ████████▒░░░░░░░░░░░░░░░░   33.18 %
+Text         8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+XML          5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
+Kotlin       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 ```
 
 <!--END_SECTION:waka-->
