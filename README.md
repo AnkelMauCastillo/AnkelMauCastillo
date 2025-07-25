@@ -3,9 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Inno Setup   34 mins         ████████████████████████▒   96.95 %
-JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
