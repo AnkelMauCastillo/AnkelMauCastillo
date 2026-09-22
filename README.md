@@ -3,9 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go      2 mins                ███████████████████▒░░░░░   77.73 %
-Other   0 secs                ███▓░░░░░░░░░░░░░░░░░░░░░   14.97 %
-Text    0 secs                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
